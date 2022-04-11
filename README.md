@@ -1,6 +1,6 @@
 # SFG Beer Works - Brewery Microservices
 
-This project has a services of microservices for deployment via Docker Compose and Kubernetes.
+This project has a services of microservices for deployment via Docker Compose and Kubernetes. This needs Docker container and need to be deployed in Kubernetes and it follows the implementation of Spring Cloud Kubernetes
 
 You can access the API documentation [here](https://sfg-beer-works.github.io/brewery-api/#tag/Beer-Service)
 
